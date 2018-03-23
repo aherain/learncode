@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e055e8-be6c-41fb-bdfc-78bc4902a323" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="report.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/report.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4804">
+              <caret line="1888" column="24" lean-forward="false" selection-start-line="1888" selection-start-column="24" selection-end-line="1888" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#25130#32050#0" expanded="false" />
+                <element signature="e#81762#82359#0" expanded="false" />
+                <marker date="1521706000468" expanded="true" signature="264:554" ph="insert into bpm_statistics_reports... " />
+                <marker date="1521706000468" expanded="true" signature="967:1058" ph="select conca... fdm_moviecode" />
+                <marker date="1521706000468" expanded="true" signature="1184:1368" ph="select id, r... bpm_statistics_ezreports" />
+                <marker date="1521706000468" expanded="true" signature="1760:2041" ph="insert into bpm_statistics_ezreports... " />
+                <marker date="1521706000468" expanded="true" signature="2316:2411" ph="select repor... bpm_statistics_ezreports" />
+                <marker date="1521706000468" expanded="true" signature="2746:2968" ph="select t1.pi... bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="2849:2904" ph="select pid, bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="3344:3429" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="3344:3508" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="3344:3509" ph="select pid f... fdm_projectwhere" />
+                <marker date="1521706000468" expanded="true" signature="3344:3516" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="3686:3991" ph="select t2.mo... " />
+                <marker date="1521706000468" expanded="true" signature="5872:5891" ph="select id fr... fdm_" />
+                <marker date="1521706000468" expanded="true" signature="5872:5901" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="5872:5912" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="5872:5914" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="6035:6249" ph="select t1.ed... pid" />
+                <marker date="1521706000468" expanded="true" signature="6127:6182" ph="select pid,c... fdm_moviecode" />
+                <marker date="1521706000468" expanded="true" signature="6494:6680" ph="select movie... bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="6494:6721" ph="select chain... bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="8076:8226" ph="select unit stm_accounts_receivable" />
+                <marker date="1521706000468" expanded="true" signature="8496:9066" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521706000468" expanded="true" signature="8595:8669" ph="select id,un... stm_late_receivable" />
+                <marker date="1521706000468" expanded="true" signature="8734:8994" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521706000468" expanded="true" signature="8828:8903" ph="select unit,... stm_receivable" />
+                <marker date="1521706000468" expanded="true" signature="9756:9830" ph="select id, n... uni_chains" />
+                <marker date="1521706000468" expanded="true" signature="12727:12854" ph="select movie... stt_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="13009:13115" ph="select code fdm_moviecode" />
+                <marker date="1521706000468" expanded="true" signature="14355:14393" ph="select `id`,... bpm_users" />
+                <marker date="1521706000468" expanded="true" signature="14442:14505" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="15327:15579" ph="select t1.pi... bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="15440:15495" ph="select pid, bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="15653:15898" ph="select chain... stt_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="15961:16214" ph="select chain... stt_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="25381:25594" ph="select book,... stt_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="26540:26588" ph="SELECT `id` uni_moviecodes" />
+                <marker date="1521706000468" expanded="true" signature="26818:26945" ph="select chain... box_office" />
+                <marker date="1521706000468" expanded="true" signature="27449:27623" ph="select book,... stt_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="28518:28636" ph="select chain... box_office" />
+                <marker date="1521706000468" expanded="true" signature="29156:29202" ph="select id, n... uni_chains" />
+                <marker date="1521706000468" expanded="true" signature="29253:29326" ph="select id, i... uni_chains" />
+                <marker date="1521706000468" expanded="true" signature="32223:32605" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="34386:34449" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="40435:40818" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="42780:42843" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="44589:45163" ph="select pid,m... bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="49112:49493" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="49817:50008" ph="select id fr... pid" />
+                <marker date="1521706000468" expanded="true" signature="49817:50009" ph="select id fr... pid" />
+                <marker date="1521706000468" expanded="true" signature="49833:49920" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="50814:50877" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="57120:57503" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="58788:58851" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="65910:66291" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="67612:67675" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="73929:74312" ph="select pid, bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="75597:75660" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="82483:82525" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="83806:83869" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="84280:84968" ph="select t1.co... " />
+                <marker date="1521706000468" expanded="true" signature="85014:85245" ph="select t1.pi... bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="85133:85188" ph="select pid, bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="88019:88231" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88237" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88279" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88287" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88296" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88352" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="88019:88378" ph="select id fr... fdm_project_id" />
+                <marker date="1521706000468" expanded="true" signature="89420:89483" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="89902:90678" ph="select t1.co... " />
+                <marker date="1521706000468" expanded="true" signature="90724:90955" ph="select t1.pi... bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="90843:90898" ph="select pid, bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="93877:94079" ph="select t1.pi... pid" />
+                <marker date="1521706000468" expanded="true" signature="93877:94103" ph="select t1.pi... pid" />
+                <marker date="1521706000468" expanded="true" signature="93877:94148" ph="select t1.pi... pid" />
+                <marker date="1521706000468" expanded="true" signature="93983:94064" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="93983:94068" ph="select pid f... fdm_project" />
+                <marker date="1521706000468" expanded="true" signature="95564:95627" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="96038:96775" ph="select t1.co... " />
+                <marker date="1521706000468" expanded="true" signature="96829:97081" ph="select t1.pi... bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="96948:97003" ph="select pid, bpm_options" />
+                <marker date="1521706000468" expanded="true" signature="102844:102907" ph="select versi... " />
+                <marker date="1521706000468" expanded="true" signature="108909:109042" ph="select * fro... fdm" />
+                <marker date="1521706000468" expanded="true" signature="110032:110410" ph="select chain... bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="110032:110416" ph="select chain... bpm_interior_publish_boxoffice" />
+                <marker date="1521706000468" expanded="true" signature="110517:110572" ph="select id, n... " />
+                <marker date="1521706000468" expanded="true" signature="110517:110592" ph="select id, n... " />
+                <marker date="1521706000468" expanded="true" signature="110517:110598" ph="select id, n... " />
+                <marker date="1521706000468" expanded="true" signature="110759:110814" ph="SELECT chain... uni_name_chains" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/settle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14460">
+              <caret line="737" column="13" lean-forward="false" selection-start-line="737" selection-start-column="13" selection-end-line="737" selection-end-column="13" />
+              <folding>
+                <marker date="1521604388579" expanded="true" signature="889:941" ph="select `id`,... uni_chains" />
+                <marker date="1521604388579" expanded="true" signature="1177:1215" ph="select `id`,... bpm_users" />
+                <marker date="1521604388579" expanded="true" signature="1276:1352" ph="select CONVE... bpm_zoneversion" />
+                <marker date="1521604388579" expanded="true" signature="3089:3499" ph="select t.mon... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="4763:4844" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="5125:5206" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="5443:5804" ph="select rc.su... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="7018:7092" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="7339:7413" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="7691:7766" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="8126:8525" ph="select r.uni... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="9166:9239" ph="update stm_l... " />
+                <marker date="1521604388579" expanded="true" signature="9355:9423" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="9522:9583" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="9821:9895" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="10150:10239" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="10369:10444" ph="insert into stm_repo_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="10637:11321" ph="insert into stm_repo_accounts_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="11443:11504" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="12023:12128" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="12297:12638" ph="insert into stm_repo_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="12478:12534" ph="select `task... " />
+                <marker date="1521604388579" expanded="true" signature="12893:13633" ph="insert into stm_repo_accounts_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="13787:14020" ph="insert into fnc_vouchers... " />
+                <marker date="1521604388579" expanded="true" signature="14328:14389" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="14761:14875" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="15224:15306" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="15425:15505" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="15624:15706" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="15825:15880" ph="update stm_s... " />
+                <marker date="1521604388579" expanded="true" signature="15968:16029" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="17325:17646" ph="select CONVE... bpm_project" />
+                <marker date="1521604388579" expanded="true" signature="17922:18011" ph="select pid, stm_task_distributions" />
+                <marker date="1521604388579" expanded="true" signature="18394:18485" ph="select LOWER... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="18675:18838" ph="select chain... stt_boxoffice" />
+                <marker date="1521604388579" expanded="true" signature="19080:19161" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="19781:19850" ph="select * fro... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="19941:20029" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="22676:22757" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="23061:23144" ph="select * fro... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="23257:23356" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="23478:23547" ph="select * fro... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="23654:23741" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="26504:26578" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="26825:26899" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="27177:27252" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="27627:27992" ph="select r.uni... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="28604:28844" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="28937:29029" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="29134:29254" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="29323:29407" ph="select sum_r... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="29566:29627" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="29899:29973" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="30147:30393" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="30495:30587" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="30702:30822" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="30870:30924" ph="select sum_r... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="31176:31258" ph="select id fr... stm_accounts_received" />
+                <marker date="1521604388579" expanded="true" signature="31425:31693" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="31810:31945" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="32014:32098" ph="select sum_r... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="32308:32400" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="32622:32707" ph="select task,... stm_task_password" />
+                <marker date="1521604388579" expanded="true" signature="32946:32991" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33021:33063" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33093:33143" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33173:33224" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33254:33294" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33324:33369" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33399:33447" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33477:33522" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="33565:33635" ph="update stm_l... " />
+                <marker date="1521604388579" expanded="true" signature="33701:33762" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="33985:34027" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="34065:34115" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="34151:34202" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="34236:34276" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="34310:34373" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="34407:34462" ph="update stm_s... " />
+                <marker date="1521604388579" expanded="true" signature="34579:34934" ph="select d.id,... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="35220:35311" ph="select sum_r... stm_received" />
+                <marker date="1521604388579" expanded="true" signature="35542:35637" ph="select sum_r... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="35863:35918" ph="select pid f... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="35978:36026" ph="select pid, fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="36588:36760" ph="select pid, stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="37227:37282" ph="select pid, fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="38005:38049" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="38550:38607" ph="select month... " />
+                <marker date="1521604388579" expanded="true" signature="38697:38770" ph="select * fro... stm_received" />
+                <marker date="1521604388579" expanded="true" signature="40673:40752" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="40870:40943" ph="insert into stm_assignment... " />
+                <marker date="1521604388579" expanded="true" signature="41308:41493" ph="insert into `stm_accounts_assignment`... " />
+                <marker date="1521604388579" expanded="true" signature="41640:41861" ph="insert into fnc_vouchers... " />
+                <marker date="1521604388579" expanded="true" signature="42160:42366" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="42459:42520" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="42979:43182" ph="select movie... stt_boxoffice" />
+                <marker date="1521604388579" expanded="true" signature="44318:44547" ph="select movie... stt_boxoffice" />
+                <marker date="1521604388579" expanded="true" signature="44659:44869" ph="select movie... stt_boxoffice" />
+                <marker date="1521604388579" expanded="true" signature="46647:46952" ph="select movie... stt_boxoffice" />
+                <marker date="1521604388579" expanded="true" signature="48157:48240" ph="select * fro... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="48500:48558" ph="select code,... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="50178:50261" ph="select * fro... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="50584:50642" ph="select code,... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="53439:53488" ph="select * fro... xlsparser_format" />
+                <marker date="1521604388579" expanded="true" signature="53734:53794" ph="select `name... uni_name_chains" />
+                <marker date="1521604388579" expanded="true" signature="54717:54782" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="55126:55226" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="55898:56039" ph="select m.pid... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="56138:56242" ph="select code,... uni_moviecodes" />
+                <marker date="1521604388579" expanded="true" signature="58955:59029" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="71050:71139" ph="select * fro... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="71788:71837" ph="select * fro... xlsparser_format" />
+                <marker date="1521604388579" expanded="true" signature="74024:74129" ph="select * fro... stm_xlsparser_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="75072:75223" ph="select p.pid... fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="76097:76253" ph="insert into `stm_xlsparser_moviecode`... " />
+                <marker date="1521604388579" expanded="true" signature="76254:76290" ph="update movie... " />
+                <marker date="1521604388579" expanded="true" signature="77283:77435" ph="insert into `stm_task_distributions`... " />
+                <marker date="1521604388579" expanded="true" signature="79772:79859" ph="select due_d... stm_payment_due_date" />
+                <marker date="1521604388579" expanded="true" signature="80070:80224" ph="insert into stm_payment_due_date... " />
+                <marker date="1521604388579" expanded="true" signature="80523:80585" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="81722:81814" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="81932:82237" ph="insert into stm_accounts_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="82345:82578" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="82875:83142" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="83281:83343" ph="insert into stm_settlement_files... " />
+                <marker date="1521604388579" expanded="true" signature="83619:83681" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="84508:84658" ph="insert into stm_late_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="86319:86617" ph="insert into stm_accounts_late_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="86731:86840" ph="insert into stm_settlement_files... " />
+                <marker date="1521604388579" expanded="true" signature="87185:87247" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="88627:88719" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="88846:89118" ph="insert into stm_accounts_receivable... " />
+                <marker date="1521604388579" expanded="true" signature="89226:89459" ph="update stm_r... " />
+                <marker date="1521604388579" expanded="true" signature="89756:90023" ph="update quick... " />
+                <marker date="1521604388579" expanded="true" signature="90151:90260" ph="insert into stm_settlement_files... " />
+                <marker date="1521604388579" expanded="true" signature="90534:90595" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="91363:91569" ph="select ad.* stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="92415:92614" ph="select zone " />
+                <marker date="1521604388579" expanded="true" signature="92772:92829" ph="select zone " />
+                <marker date="1521604388579" expanded="true" signature="97019:97092" ph="select name,... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="101645:102102" ph="select t.mon... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="103113:103416" ph="insert into `stm_receivable`... " />
+                <marker date="1521604388579" expanded="true" signature="103654:103920" ph="insert into `stm_received`... " />
+                <marker date="1521604388579" expanded="true" signature="104155:104394" ph="insert into `quick_unit_figure`... " />
+                <marker date="1521604388579" expanded="true" signature="104621:104717" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="105368:105430" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="105741:105836" ph="select * fro... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="106073:106134" ph="update stm_s... " />
+                <marker date="1521604388579" expanded="true" signature="106282:106443" ph="insert into stm_settlement_task... " />
+                <marker date="1521604388579" expanded="true" signature="109365:109848" ph="select sum(a... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="111241:111531" ph="select p.pid... bpm_project" />
+                <marker date="1521604388579" expanded="true" signature="112953:113394" ph="select CONVE... fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="114115:114457" ph="select CONVE... fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="115316:115361" ph="select * fro... stt_zonechains" />
+                <marker date="1521604388579" expanded="true" signature="115592:115712" ph="select id, l... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="116337:116548" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="116670:116873" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="117123:117289" ph="select p.pid... fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="118355:118416" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="118659:118820" ph="insert into stm_settlement_task... " />
+                <marker date="1521604388579" expanded="true" signature="119199:119249" ph="insert into stm_task_password... " />
+                <marker date="1521604388579" expanded="true" signature="119289:119336" ph="insert into stm_task_zoneversion... " />
+                <marker date="1521604388579" expanded="true" signature="120091:120220" ph="insert into `stm_task_distributions`... " />
+                <marker date="1521604388579" expanded="true" signature="120426:120511" ph="update stm_l... " />
+                <marker date="1521604388579" expanded="true" signature="122612:122673" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="123002:123097" ph="select * fro... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="123326:123421" ph="select * fro... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="123655:123816" ph="insert into stm_settlement_task... " />
+                <marker date="1521604388579" expanded="true" signature="124156:124206" ph="insert into stm_task_password... " />
+                <marker date="1521604388579" expanded="true" signature="124334:124636" ph="insert into `stm_receivable`... " />
+                <marker date="1521604388579" expanded="true" signature="124873:125138" ph="insert into `stm_received`... " />
+                <marker date="1521604388579" expanded="true" signature="125372:125611" ph="insert into `quick_unit_figure`... " />
+                <marker date="1521604388579" expanded="true" signature="125847:126119" ph="select pid, " />
+                <marker date="1521604388579" expanded="true" signature="127093:127135" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127169:127209" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127243:127294" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127328:127377" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127411:127456" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127490:127535" ph="delete from " />
+                <marker date="1521604388579" expanded="true" signature="127578:127639" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="127906:128185" ph="select CONVE... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="128248:128541" ph="select CONVE... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="128817:128880" ph="select * fro... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="129036:129092" ph="update stm_l... " />
+                <marker date="1521604388579" expanded="true" signature="129145:129218" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="129373:129416" ph="select pid f... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="129373:129429" ph="select pid f... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="129769:129910" ph="select m.pid... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="129988:130092" ph="select code,... uni_moviecodes" />
+                <marker date="1521604388579" expanded="true" signature="132206:132271" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="133967:133996" ph="select pid f... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="133967:134027" ph="select pid f... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="134177:134237" ph="select distr... " />
+                <marker date="1521604388579" expanded="true" signature="134435:134499" ph="insert into stm_confirm_project... " />
+                <marker date="1521604388579" expanded="true" signature="134630:134678" ph="update fdm_m... " />
+                <marker date="1521604388579" expanded="true" signature="134630:134679" ph="update fdm_m... " />
+                <marker date="1521604388579" expanded="true" signature="134630:134681" ph="update fdm_m... " />
+                <marker date="1521604388579" expanded="true" signature="134725:134786" ph="insert into global_user_logs... " />
+                <marker date="1521604388579" expanded="true" signature="135095:135197" ph="select id, f... stm_settlement_files" />
+                <marker date="1521604388579" expanded="true" signature="135305:135422" ph="select id, f... stm_settlement_files" />
+                <marker date="1521604388579" expanded="true" signature="136242:136366" ph="select `id`,... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="136844:136921" ph="select pid, fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="137075:137543" ph="SELECT pid, stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="138479:138778" ph="SELECT t1.ta... stm_accounts_assignment" />
+                <marker date="1521604388579" expanded="true" signature="138681:138725" ph="select id fr... stm_assignment" />
+                <marker date="1521604388579" expanded="true" signature="138818:138935" ph="select task,... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="140330:140788" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="140417:140491" ph="select id,un... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="140516:140736" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="140590:140665" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="147145:148022" ph="SELECT task,... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="147588:147955" ph="select max(t... task" />
+                <marker date="1521604388579" expanded="true" signature="147662:147822" ph="select task stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="147855:147932" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="150917:151317" ph="SELECT task,... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="154532:154655" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="154835:154986" ph="SELECT unit,... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="155085:155213" ph="SELECT unit,... stm_accounts_received" />
+                <marker date="1521604388579" expanded="true" signature="156117:156498" ph="SELECT unit,... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="156713:157148" ph="SELECT unit,... stm_accounts_assignment" />
+                <marker date="1521604388579" expanded="true" signature="157006:157050" ph="select id fr... stm_assignment" />
+                <marker date="1521604388579" expanded="true" signature="158965:159111" ph="select id as... " />
+                <marker date="1521604388579" expanded="true" signature="159228:159271" ph="select * fro... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="159773:160394" ph="select task,... " />
+                <marker date="1521604388579" expanded="true" signature="160520:161082" ph="select ta.un... " />
+                <marker date="1521604388579" expanded="true" signature="161215:161541" ph="SELECT sum(r... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="162065:162742" ph="select ta.un... " />
+                <marker date="1521604388579" expanded="true" signature="163423:163701" ph="SELECT unit,... stm_accounts_assignment" />
+                <marker date="1521604388579" expanded="true" signature="163546:163590" ph="select id fr... stm_assignment" />
+                <marker date="1521604388579" expanded="true" signature="166152:166273" ph="select pid,n... " />
+                <marker date="1521604388579" expanded="true" signature="166331:166577" ph="select pid f... id" />
+                <marker date="1521604388579" expanded="true" signature="166372:166443" ph="SELECT id,mo... " />
+                <marker date="1521604388579" expanded="true" signature="166868:166928" ph="select pid,c... " />
+                <marker date="1521604388579" expanded="true" signature="167188:167242" ph="select * fro... uni_chains" />
+                <marker date="1521604388579" expanded="true" signature="167753:167798" ph="select id fr... uni_moviecodes" />
+                <marker date="1521604388579" expanded="true" signature="167969:168071" ph="select sum(r... box_office" />
+                <marker date="1521604388579" expanded="true" signature="168268:168370" ph="select sum(r... box_office" />
+                <marker date="1521604388579" expanded="true" signature="168590:168692" ph="select sum(r... box_office" />
+                <marker date="1521604388579" expanded="true" signature="168952:169345" ph="select sum(r... id" />
+                <marker date="1521604388579" expanded="true" signature="169114:169191" ph="SELECT id,mo... " />
+                <marker date="1521604388579" expanded="true" signature="169409:169729" ph="SELECT pid,s... stm_accounts_assignment" />
+                <marker date="1521604388579" expanded="true" signature="169515:169575" ph="select id fr... stm_assignment" />
+                <marker date="1521604388579" expanded="true" signature="170739:170885" ph="select id as... " />
+                <marker date="1521604388579" expanded="true" signature="171006:171046" ph="select * fro... fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="171092:171134" ph="select * fro... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="171584:172103" ph="select task,... " />
+                <marker date="1521604388579" expanded="true" signature="172198:172682" ph="select ta.un... " />
+                <marker date="1521604388579" expanded="true" signature="172785:173073" ph="SELECT sum(r... stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="173492:174091" ph="select ta.un... " />
+                <marker date="1521604388579" expanded="true" signature="174747:174978" ph="SELECT unit,... stm_accounts_assignment" />
+                <marker date="1521604388579" expanded="true" signature="174845:174889" ph="select id fr... stm_assignment" />
+                <marker date="1521604388579" expanded="true" signature="177380:177431" ph="select month... " />
+                <marker date="1521604388579" expanded="true" signature="177670:177729" ph="select code,... fdm_moviecode" />
+                <marker date="1521604388579" expanded="true" signature="180084:180463" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="180508:180584" ph="update stm_a... " />
+                <marker date="1521604388579" expanded="true" signature="181324:181802" ph="select pid, fdm_project" />
+                <marker date="1521604388579" expanded="true" signature="183448:183699" ph="SELECT pid, stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="183915:184527" ph="select ad.pi... stm_accounts_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="184081:184155" ph="select id,un... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="184194:184428" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521604388579" expanded="true" signature="184275:184350" ph="select unit,... stm_receivable" />
+                <marker date="1521604388579" expanded="true" signature="188901:189783" ph="SELECT pid, stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="189170:189725" ph="select max(t... pid" />
+                <marker date="1521604388579" expanded="true" signature="189289:189562" ph="select pid, stm_accounts_receivable" />
+                <marker date="1521604388579" expanded="true" signature="189610:189702" ph="select id fr... stm_settlement_task" />
+                <marker date="1521604388579" expanded="true" signature="190133:190607" ph="SELECT task,... stm_accounts_receivable" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/report.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bpm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eui/bpm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compare.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/compare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17400">
+              <caret line="1287" column="50" lean-forward="false" selection-start-line="1287" selection-start-column="50" selection-end-line="1287" selection-end-column="50" />
+              <folding>
+                <element signature="e#43858#49562#0" expanded="false" />
+                <element signature="e#54698#72741#0" expanded="false" />
+                <marker date="1521601063075" expanded="true" signature="242:294" ph="select `id`,... uni_chains" />
+                <marker date="1521601063075" expanded="true" signature="481:519" ph="select `id`,... bpm_users" />
+                <marker date="1521601063075" expanded="true" signature="579:655" ph="select CONVE... bpm_zoneversion" />
+                <marker date="1521601063075" expanded="true" signature="725:777" ph="select `id`,... uni_chains" />
+                <marker date="1521601063075" expanded="true" signature="2435:2725" ph="select tt.na... " />
+                <marker date="1521601063075" expanded="true" signature="3816:3985" ph="select `type... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="5230:5404" ph="select unit stm_accounts_receivable" />
+                <marker date="1521601063075" expanded="true" signature="5831:6402" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="5950:6024" ph="select id,un... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="6081:6333" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="6171:6246" ph="select unit,... stm_receivable" />
+                <marker date="1521601063075" expanded="true" signature="14216:14257" ph="select name fdm_project" />
+                <marker date="1521601063075" expanded="true" signature="14372:14441" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="21296:21365" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="22309:22389" ph="select id fr... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="22474:22565" ph="select id fr... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="22686:22739" ph="update bpm_s... " />
+                <marker date="1521601063075" expanded="true" signature="28949:29034" ph="select pid, bpm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="33635:33872" ph="select unit stm_accounts_receivable" />
+                <marker date="1521601063075" expanded="true" signature="34297:34909" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="34424:34498" ph="select id,un... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="34563:34823" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="34657:34732" ph="select unit,... stm_receivable" />
+                <marker date="1521601063075" expanded="true" signature="43003:43044" ph="select name fdm_project" />
+                <marker date="1521601063075" expanded="true" signature="43158:43227" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="53921:53962" ph="select name fdm_project" />
+                <marker date="1521601063075" expanded="true" signature="54076:54145" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="54778:54863" ph="select pid, fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="58917:59149" ph="select unit stm_accounts_receivable" />
+                <marker date="1521601063075" expanded="true" signature="59770:60312" ph="select d.uni... stm_accounts_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="59881:59955" ph="select id,un... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="60004:60248" ph="select id,t1... stm_late_receivable" />
+                <marker date="1521601063075" expanded="true" signature="60090:60165" ph="select unit,... stm_receivable" />
+                <marker date="1521601063075" expanded="true" signature="61510:61610" ph="select LOWER... uni_chains" />
+                <marker date="1521601063075" expanded="true" signature="69364:69721" ph="select task,... " />
+                <marker date="1521601063075" expanded="true" signature="69820:70077" ph="select unit stm_accounts_receivable" />
+                <marker date="1521601063075" expanded="true" signature="70191:70434" ph="select unit stm_accounts_receivable" />
+                <marker date="1521601063075" expanded="true" signature="72870:73049" ph="select unit,... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="73379:73531" ph="select unit,... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="74415:74564" ph="select `type... bpm_statistics_tasks" />
+                <marker date="1521601063075" expanded="true" signature="75067:75108" ph="select name fdm_project" />
+                <marker date="1521601063075" expanded="true" signature="75242:75311" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521601063075" expanded="true" signature="79502:79567" ph="select CONVE... uni_cinemas" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_service.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/base_service.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50100">
+              <caret line="3065" column="34" lean-forward="false" selection-start-line="3065" selection-start-column="34" selection-end-line="3065" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#15745#17746#0" expanded="false" />
+                <element signature="e#17792#19204#0" expanded="false" />
+                <element signature="e#19246#20081#0" expanded="false" />
+                <element signature="e#20140#20761#0" expanded="false" />
+                <element signature="e#20813#23020#0" expanded="false" />
+                <element signature="e#23092#24347#0" expanded="false" />
+                <element signature="e#24409#26091#0" expanded="false" />
+                <element signature="e#36990#41291#0" expanded="false" />
+                <element signature="e#70770#73347#0" expanded="false" />
+                <element signature="e#94138#96416#0" expanded="false" />
+                <element signature="e#96983#100121#0" expanded="false" />
+                <element signature="e#100843#101230#0" expanded="false" />
+                <element signature="e#115661#118359#0" expanded="false" />
+                <element signature="e#124088#125014#0" expanded="false" />
+                <marker date="1521543566504" expanded="true" signature="562:793" ph="..." />
+                <marker date="1521543566504" expanded="true" signature="1164:1165" ph="..." />
+                <marker date="1521543566504" expanded="true" signature="1755:1807" ph="select `id`,... uni_chains" />
+                <marker date="1521543566504" expanded="true" signature="1890:1942" ph="select `id`,... uni_chains" />
+                <marker date="1521543566504" expanded="true" signature="2095:2133" ph="select `id`,... bpm_users" />
+                <marker date="1521543566504" expanded="true" signature="15982:16095" ph="select round... box_office" />
+                <marker date="1521543566504" expanded="true" signature="16182:16326" ph="select round... box_office" />
+                <marker date="1521543566504" expanded="true" signature="16440:16588" ph="select round... box_office_zone" />
+                <marker date="1521543566504" expanded="true" signature="16711:16890" ph="select round... box_office_zone" />
+                <marker date="1521543566504" expanded="true" signature="19281:19593" ph="select tt.na... " />
+                <marker date="1521543566504" expanded="true" signature="20185:20266" ph="select id fr... user_star" />
+                <marker date="1521543566504" expanded="true" signature="20387:20454" ph="insert into user_star... " />
+                <marker date="1521543566504" expanded="true" signature="20604:20671" ph="DELETE FROM " />
+                <marker date="1521543566504" expanded="true" signature="25064:25209" ph="select sheet... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="26591:26700" ph="select id fr... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="26826:26879" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="27414:27575" ph="select book,... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="29143:29237" ph="select movie... uni_moviecodes" />
+                <marker date="1521543566504" expanded="true" signature="29521:29878" ph="SELECT `t`.`... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="32383:32545" ph="select LOWER... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="34011:34372" ph="SELECT `r`.`... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="37185:37407" ph="select movie... " />
+                <marker date="1521543566504" expanded="true" signature="39272:39535" ph="SELECT `r`.`... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="41409:41544" ph="select code,... " />
+                <marker date="1521543566504" expanded="true" signature="41602:41757" ph="select code,... " />
+                <marker date="1521543566504" expanded="true" signature="41977:42031" ph="select zone " />
+                <marker date="1521543566504" expanded="true" signature="42159:42235" ph="select `id` " />
+                <marker date="1521543566504" expanded="true" signature="42356:42511" ph="SELECT `chai... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="42734:42909" ph="SELECT `chai... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="43102:43228" ph="SELECT `chai... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="43466:43641" ph="SELECT `chai... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="43824:43879" ph="SELECT `id` uni_moviecodes" />
+                <marker date="1521543566504" expanded="true" signature="44042:44140" ph="SELECT `chai... box_office" />
+                <marker date="1521543566504" expanded="true" signature="44597:44745" ph="SELECT `unit... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="44980:45243" ph="SELECT `r`.`... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="46874:46928" ph="select zone " />
+                <marker date="1521543566504" expanded="true" signature="47081:47157" ph="select `id` " />
+                <marker date="1521543566504" expanded="true" signature="49172:49436" ph="select max(r... *" />
+                <marker date="1521543566504" expanded="true" signature="49273:49364" ph="SELECT * FRO... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="49774:50045" ph="SELECT SUM(`... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="59166:59263" ph="select movie... bpm_statistics_reports" />
+                <marker date="1521543566504" expanded="true" signature="60839:60927" ph="select id,re... bpm_statistics_reportfiles" />
+                <marker date="1521543566504" expanded="true" signature="61157:61241" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="61630:61677" ph="update bpm_o... " />
+                <marker date="1521543566504" expanded="true" signature="61822:61880" ph="select pid,m... bpm_project" />
+                <marker date="1521543566504" expanded="true" signature="62070:62132" ph="select id,na... bpm_statistics_books" />
+                <marker date="1521543566504" expanded="true" signature="62228:62305" ph="select code,... bpm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="62817:62874" ph="select code bpm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="67607:67642" ph="SELECT `id` uni_chains" />
+                <marker date="1521543566504" expanded="true" signature="67694:67757" ph="select code,... fdm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="67938:67988" ph="SELECT code,... fdm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="68792:68940" ph="SELECT pid, bpm_options" />
+                <marker date="1521543566504" expanded="true" signature="69795:69968" ph="select targe... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="73440:73620" ph="select sum(i... stm_accounts_assignment" />
+                <marker date="1521543566504" expanded="true" signature="76543:76645" ph="select sum(r... stm_accounts_receivable" />
+                <marker date="1521543566504" expanded="true" signature="76727:77050" ph="select pid, stm_settlement_task" />
+                <marker date="1521543566504" expanded="true" signature="77155:77296" ph="select pid, bpm_ack_chain_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="81350:81548" ph="select sum(i... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="82149:82218" ph="select pid,l... bpm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="82979:83050" ph="select pid, bpm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="84638:84995" ph="select type,... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="86767:87037" ph="select sum(i... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="88303:88399" ph="select pid, bpm_project" />
+                <marker date="1521543566504" expanded="true" signature="88458:88577" ph="select id, t... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="88732:88823" ph="select targe... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="89462:89770" ph="select targe... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="90125:90313" ph="select sum(s... pulled_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="90449:90745" ph="select id, t... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="92225:92522" ph="select id, t... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="92774:92887" ph="select targe... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="94201:94638" ph="select versi... id" />
+                <marker date="1521543566504" expanded="true" signature="94293:94447" ph="SELECT id as... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="94480:94604" ph="SELECT paren... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="96512:96673" ph="select pid f... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="97054:97151" ph="select id fr... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="97322:97362" ph="SELECT * FRO... nc_wl_list" />
+                <marker date="1521543566504" expanded="true" signature="98024:98204" ph="insert into bpm_statistics_tasks... " />
+                <marker date="1521543566504" expanded="true" signature="98524:98704" ph="insert into bpm_statistics_tasks... " />
+                <marker date="1521543566504" expanded="true" signature="99048:99250" ph="insert into bpm_statistics_tasks... " />
+                <marker date="1521543566504" expanded="true" signature="99610:99790" ph="insert into bpm_statistics_tasks... " />
+                <marker date="1521543566504" expanded="true" signature="100235:100701" ph="select id, t... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="100881:101182" ph="select id,ty... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="101336:101451" ph="insert into bpm_settlement_merge... " />
+                <marker date="1521543566504" expanded="true" signature="102036:102097" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="102327:102438" ph="select name,... bpm_settlement_warehouse" />
+                <marker date="1521543566504" expanded="true" signature="106343:106429" ph="SELECT * FRO... bpm_settlement_warehouse" />
+                <marker date="1521543566504" expanded="true" signature="108537:108606" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="108823:108909" ph="SELECT * FRO... bpm_settlement_warehouse" />
+                <marker date="1521543566504" expanded="true" signature="111423:111492" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="111827:111880" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="111939:111997" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="112169:112217" ph="select id, n... uni_chains" />
+                <marker date="1521543566504" expanded="true" signature="112407:112806" ph="select sheet... stt_boxoffice" />
+                <marker date="1521543566504" expanded="true" signature="112955:113061" ph="select item,... bpm_settlement_items" />
+                <marker date="1521543566504" expanded="true" signature="113192:113367" ph="select settl... bpm_settlement_merge" />
+                <marker date="1521543566504" expanded="true" signature="113998:114065" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="114302:114435" ph="select * fro... bpm_settlement_merge" />
+                <marker date="1521543566504" expanded="true" signature="114620:114677" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="114969:115039" ph="select id, t... bpm_statistics_tasks" />
+                <marker date="1521543566504" expanded="true" signature="115210:115262" ph="update bpm_s... " />
+                <marker date="1521543566504" expanded="true" signature="115334:115388" ph="select relea... delete_release_id" />
+                <marker date="1521543566504" expanded="true" signature="115468:115524" ph="update bpm_r... " />
+                <marker date="1521543566504" expanded="true" signature="119581:119650" ph="select pid,l... fdm_moviecode" />
+                <marker date="1521543566504" expanded="true" signature="126898:126953" ph="select id as... uni_chains" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf_db.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eui/conf_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>format</find>
+      <find>self.i</find>
+      <find>in_clause</find>
+      <find>cur_pids_map</find>
+      <find>strp</find>
+      <find>imax</find>
+      <find>current_check_boxoffice</find>
+      <find>get_all_pids</find>
+      <find>change_flag</find>
+      <find>this.flag</find>
+      <find>label_fn</find>
+      <find>db_publish</find>
+      <find>save_final_table</find>
+      <find>^F|^M|</find>
+      <find>delete</find>
+      <find>删除</find>
+      <find>release_grid_task_detail</find>
+      <find>js_delete_zhongying_month_task</find>
+      <find>release_date</find>
+      <find>lambda back_data</find>
+      <find>code_info[0]</find>
+      <find>grid_compare_movies_data</find>
+      <find>file_raw_moviecode</find>
+      <find>compare_movies_data</find>
+      <find>comfirm</find>
+      <find>change</find>
+      <find>delete_data_receivable</find>
+      <find>md</find>
+      <find>lower</find>
+      <find>scope</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Workcode\BPM_NEW\eui_statistics</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mig/dist/pack-20171101131103/statistics-6654395/eui_statistics/share/file_parser.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/account/account.service.ts" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/share/file_parser.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/bpm" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/bpm_movie" />
+        <option value="$PROJECT_DIR$/eui_login/eui_login/login.html" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/moviecode" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/stm.txt" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/create_sql.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/pids" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/account/months/cinema-month/cinema-month.component.ts" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/bpm.sql" />
+        <option value="$PROJECT_DIR$/mig/nsis/bpm.nsi" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/dailytask/data-format.ts" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/boxoffice/chain/chain.component.ts" />
+        <option value="$PROJECT_DIR$/eui/app_launcher.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/local_storage.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/process.py" />
+        <option value="$PROJECT_DIR$/eui_login/eui_login/login.py" />
+        <option value="$PROJECT_DIR$/eui_finance/eui_finance/model/nc.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/share/file_transfer.py" />
+        <option value="$PROJECT_DIR$/eui/eui_win32.py" />
+        <option value="$PROJECT_DIR$/eui/edb.py" />
+        <option value="$PROJECT_DIR$/mig/dist/pack-20171214184639/statistics-5442df3/eui_statistics/stm_helper/stm_parsexls.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/compare/data.ts" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/release/boxoffice/boxoffice.component.ts" />
+        <option value="$PROJECT_DIR$/mig/dist/pack-20180103175911/statistics-dd023eb/eui_statistics/stm_helper/stm_parsexls.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/stm_helper/stm_parsexls.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/dailytask/tasklist/tasklist.component.ts" />
+        <option value="$PROJECT_DIR$/mig/pyinstaller/bpm.spec" />
+        <option value="$PROJECT_DIR$/mig/bundle.py" />
+        <option value="$USER_HOME$/Desktop/bpm_publish_srv.py" />
+        <option value="$PROJECT_DIR$/eui_finance/eui_finance/base_service.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/cinema.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/upload_service.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/sheet_service.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/constants.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/project.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/compare_service.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/__init__.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/film-box-office/film-box-office/film-box-office.html" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/cinema-film-box-office/cinema-film-box-office/cinema-film-box-office.component.ts" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/report.component.ts" />
+        <option value="$PROJECT_DIR$/eui/bpm.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/task.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/base_service.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/compare.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/settle.py" />
+        <option value="$PROJECT_DIR$/eui/conf_db.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/eui_statistics/model/report.py" />
+        <option value="$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/report.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/eui_finance/fe/node_modules" />
+    <handled-path value="$PROJECT_DIR$/eui_statistics/fe/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="608" />
+    <option name="width" value="1866" />
+    <option name="height" value="1317" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui_statistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BPM_NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="SearchEverywhereHistoryKey" value="edb&#9;null&#9;null&#10;file_p&#9;FILE&#9;file://C:/Workcode/BPM_NEW/eui_statistics/eui_statistics/share/file_parser.py&#10;pars&#9;null&#9;null&#10;pchec&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workcode\BPM_NEW\eui_statistics\eui_statistics\helpers" />
+      <recent name="C:\Workcode\BPM_NEW\eui_statistics\eui_statistics\stm_helper" />
+      <recent name="C:\Workcode\BPM_NEW\mig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workcode\BPM_NEW\eui_statistics\eui_statistics\share" />
+      <recent name="C:\Workcode\BPM_NEW\eui" />
+      <recent name="C:\Workcode\BPM_NEW\eui_statistics\eui_statistics\model" />
+      <recent name="C:\Workcode\BPM_NEW\eui_finance\eui_finance\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="BPM_NEW" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BPM_NEW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e055e8-be6c-41fb-bdfc-78bc4902a323" name="Default" comment="" />
+      <created>1509328932969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509328932969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="608" y="0" width="1866" height="1317" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26966292" sideWeight="0.37458193" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32497838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2705272" sideWeight="0.62541807" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988802" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22017837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2624054" sideWeight="0.37189615" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26966292" sideWeight="0.62810385" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988802" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1393534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="67" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/mass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bpm_publish_srv.py" />
+    <entry file="file://$PROJECT_DIR$/mig/packer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="59" column="27" lean-forward="false" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/base_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1658">
+          <caret line="165" column="37" lean-forward="false" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12703">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4523">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_finance/eui_finance/model/nc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/cinema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="54" column="57" lean-forward="true" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mig/mig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/helpers/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/app_launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1476">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/app_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1374">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/app_launcher_hotline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5356">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/app_launcher_wintrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/conf_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/fontawesome-webfont.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/exml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/ewsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="534" column="15" lean-forward="true" selection-start-line="534" selection-start-column="15" selection-end-line="534" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/eui_win32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21300">
+          <caret line="132" column="19" lean-forward="false" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/eui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/edb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/conf_ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/film-box-office/film-box-office/film-box-office.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/sheet_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6380">
+          <caret line="323" column="0" lean-forward="false" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/report.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/cinema-film-box-office/cinema-film-box-office/cinema-film-box-office.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="86" column="52" lean-forward="false" selection-start-line="86" selection-start-column="52" selection-end-line="86" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/film-box-office/film-box-office/film-box-office.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/upload_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13240">
+          <caret line="685" column="40" lean-forward="false" selection-start-line="685" selection-start-column="40" selection-end-line="685" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/sheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="162" column="53" lean-forward="false" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/conf_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_login/eui_login/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/compare_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="1457" column="43" lean-forward="true" selection-start-line="1457" selection-start-column="43" selection-end-line="1457" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/settle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14460">
+          <caret line="737" column="13" lean-forward="false" selection-start-line="737" selection-start-column="13" selection-end-line="737" selection-end-column="13" />
+          <folding>
+            <marker date="1521604388579" expanded="true" signature="889:941" ph="select `id`,... uni_chains" />
+            <marker date="1521604388579" expanded="true" signature="1177:1215" ph="select `id`,... bpm_users" />
+            <marker date="1521604388579" expanded="true" signature="1276:1352" ph="select CONVE... bpm_zoneversion" />
+            <marker date="1521604388579" expanded="true" signature="3089:3499" ph="select t.mon... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="4763:4844" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="5125:5206" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="5443:5804" ph="select rc.su... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="7018:7092" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="7339:7413" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="7691:7766" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="8126:8525" ph="select r.uni... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="9166:9239" ph="update stm_l... " />
+            <marker date="1521604388579" expanded="true" signature="9355:9423" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="9522:9583" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="9821:9895" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="10150:10239" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="10369:10444" ph="insert into stm_repo_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="10637:11321" ph="insert into stm_repo_accounts_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="11443:11504" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="12023:12128" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="12297:12638" ph="insert into stm_repo_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="12478:12534" ph="select `task... " />
+            <marker date="1521604388579" expanded="true" signature="12893:13633" ph="insert into stm_repo_accounts_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="13787:14020" ph="insert into fnc_vouchers... " />
+            <marker date="1521604388579" expanded="true" signature="14328:14389" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="14761:14875" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="15224:15306" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="15425:15505" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="15624:15706" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="15825:15880" ph="update stm_s... " />
+            <marker date="1521604388579" expanded="true" signature="15968:16029" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="17325:17646" ph="select CONVE... bpm_project" />
+            <marker date="1521604388579" expanded="true" signature="17922:18011" ph="select pid, stm_task_distributions" />
+            <marker date="1521604388579" expanded="true" signature="18394:18485" ph="select LOWER... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="18675:18838" ph="select chain... stt_boxoffice" />
+            <marker date="1521604388579" expanded="true" signature="19080:19161" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="19781:19850" ph="select * fro... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="19941:20029" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="22676:22757" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="23061:23144" ph="select * fro... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="23257:23356" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="23478:23547" ph="select * fro... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="23654:23741" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="26504:26578" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="26825:26899" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="27177:27252" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="27627:27992" ph="select r.uni... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="28604:28844" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="28937:29029" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="29134:29254" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="29323:29407" ph="select sum_r... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="29566:29627" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="29899:29973" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="30147:30393" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="30495:30587" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="30702:30822" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="30870:30924" ph="select sum_r... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="31176:31258" ph="select id fr... stm_accounts_received" />
+            <marker date="1521604388579" expanded="true" signature="31425:31693" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="31810:31945" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="32014:32098" ph="select sum_r... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="32308:32400" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="32622:32707" ph="select task,... stm_task_password" />
+            <marker date="1521604388579" expanded="true" signature="32946:32991" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33021:33063" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33093:33143" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33173:33224" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33254:33294" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33324:33369" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33399:33447" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33477:33522" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="33565:33635" ph="update stm_l... " />
+            <marker date="1521604388579" expanded="true" signature="33701:33762" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="33985:34027" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="34065:34115" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="34151:34202" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="34236:34276" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="34310:34373" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="34407:34462" ph="update stm_s... " />
+            <marker date="1521604388579" expanded="true" signature="34579:34934" ph="select d.id,... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="35220:35311" ph="select sum_r... stm_received" />
+            <marker date="1521604388579" expanded="true" signature="35542:35637" ph="select sum_r... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="35863:35918" ph="select pid f... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="35978:36026" ph="select pid, fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="36588:36760" ph="select pid, stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="37227:37282" ph="select pid, fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="38005:38049" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="38550:38607" ph="select month... " />
+            <marker date="1521604388579" expanded="true" signature="38697:38770" ph="select * fro... stm_received" />
+            <marker date="1521604388579" expanded="true" signature="40673:40752" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="40870:40943" ph="insert into stm_assignment... " />
+            <marker date="1521604388579" expanded="true" signature="41308:41493" ph="insert into `stm_accounts_assignment`... " />
+            <marker date="1521604388579" expanded="true" signature="41640:41861" ph="insert into fnc_vouchers... " />
+            <marker date="1521604388579" expanded="true" signature="42160:42366" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="42459:42520" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="42979:43182" ph="select movie... stt_boxoffice" />
+            <marker date="1521604388579" expanded="true" signature="44318:44547" ph="select movie... stt_boxoffice" />
+            <marker date="1521604388579" expanded="true" signature="44659:44869" ph="select movie... stt_boxoffice" />
+            <marker date="1521604388579" expanded="true" signature="46647:46952" ph="select movie... stt_boxoffice" />
+            <marker date="1521604388579" expanded="true" signature="48157:48240" ph="select * fro... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="48500:48558" ph="select code,... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="50178:50261" ph="select * fro... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="50584:50642" ph="select code,... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="53439:53488" ph="select * fro... xlsparser_format" />
+            <marker date="1521604388579" expanded="true" signature="53734:53794" ph="select `name... uni_name_chains" />
+            <marker date="1521604388579" expanded="true" signature="54717:54782" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="55126:55226" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="55898:56039" ph="select m.pid... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="56138:56242" ph="select code,... uni_moviecodes" />
+            <marker date="1521604388579" expanded="true" signature="58955:59029" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="71050:71139" ph="select * fro... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="71788:71837" ph="select * fro... xlsparser_format" />
+            <marker date="1521604388579" expanded="true" signature="74024:74129" ph="select * fro... stm_xlsparser_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="75072:75223" ph="select p.pid... fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="76097:76253" ph="insert into `stm_xlsparser_moviecode`... " />
+            <marker date="1521604388579" expanded="true" signature="76254:76290" ph="update movie... " />
+            <marker date="1521604388579" expanded="true" signature="77283:77435" ph="insert into `stm_task_distributions`... " />
+            <marker date="1521604388579" expanded="true" signature="79772:79859" ph="select due_d... stm_payment_due_date" />
+            <marker date="1521604388579" expanded="true" signature="80070:80224" ph="insert into stm_payment_due_date... " />
+            <marker date="1521604388579" expanded="true" signature="80523:80585" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="81722:81814" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="81932:82237" ph="insert into stm_accounts_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="82345:82578" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="82875:83142" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="83281:83343" ph="insert into stm_settlement_files... " />
+            <marker date="1521604388579" expanded="true" signature="83619:83681" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="84508:84658" ph="insert into stm_late_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="86319:86617" ph="insert into stm_accounts_late_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="86731:86840" ph="insert into stm_settlement_files... " />
+            <marker date="1521604388579" expanded="true" signature="87185:87247" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="88627:88719" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="88846:89118" ph="insert into stm_accounts_receivable... " />
+            <marker date="1521604388579" expanded="true" signature="89226:89459" ph="update stm_r... " />
+            <marker date="1521604388579" expanded="true" signature="89756:90023" ph="update quick... " />
+            <marker date="1521604388579" expanded="true" signature="90151:90260" ph="insert into stm_settlement_files... " />
+            <marker date="1521604388579" expanded="true" signature="90534:90595" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="91363:91569" ph="select ad.* stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="92415:92614" ph="select zone " />
+            <marker date="1521604388579" expanded="true" signature="92772:92829" ph="select zone " />
+            <marker date="1521604388579" expanded="true" signature="97019:97092" ph="select name,... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="101645:102102" ph="select t.mon... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="103113:103416" ph="insert into `stm_receivable`... " />
+            <marker date="1521604388579" expanded="true" signature="103654:103920" ph="insert into `stm_received`... " />
+            <marker date="1521604388579" expanded="true" signature="104155:104394" ph="insert into `quick_unit_figure`... " />
+            <marker date="1521604388579" expanded="true" signature="104621:104717" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="105368:105430" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="105741:105836" ph="select * fro... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="106073:106134" ph="update stm_s... " />
+            <marker date="1521604388579" expanded="true" signature="106282:106443" ph="insert into stm_settlement_task... " />
+            <marker date="1521604388579" expanded="true" signature="109365:109848" ph="select sum(a... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="111241:111531" ph="select p.pid... bpm_project" />
+            <marker date="1521604388579" expanded="true" signature="112953:113394" ph="select CONVE... fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="114115:114457" ph="select CONVE... fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="115316:115361" ph="select * fro... stt_zonechains" />
+            <marker date="1521604388579" expanded="true" signature="115592:115712" ph="select id, l... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="116337:116548" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="116670:116873" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="117123:117289" ph="select p.pid... fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="118355:118416" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="118659:118820" ph="insert into stm_settlement_task... " />
+            <marker date="1521604388579" expanded="true" signature="119199:119249" ph="insert into stm_task_password... " />
+            <marker date="1521604388579" expanded="true" signature="119289:119336" ph="insert into stm_task_zoneversion... " />
+            <marker date="1521604388579" expanded="true" signature="120091:120220" ph="insert into `stm_task_distributions`... " />
+            <marker date="1521604388579" expanded="true" signature="120426:120511" ph="update stm_l... " />
+            <marker date="1521604388579" expanded="true" signature="122612:122673" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="123002:123097" ph="select * fro... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="123326:123421" ph="select * fro... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="123655:123816" ph="insert into stm_settlement_task... " />
+            <marker date="1521604388579" expanded="true" signature="124156:124206" ph="insert into stm_task_password... " />
+            <marker date="1521604388579" expanded="true" signature="124334:124636" ph="insert into `stm_receivable`... " />
+            <marker date="1521604388579" expanded="true" signature="124873:125138" ph="insert into `stm_received`... " />
+            <marker date="1521604388579" expanded="true" signature="125372:125611" ph="insert into `quick_unit_figure`... " />
+            <marker date="1521604388579" expanded="true" signature="125847:126119" ph="select pid, " />
+            <marker date="1521604388579" expanded="true" signature="127093:127135" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127169:127209" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127243:127294" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127328:127377" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127411:127456" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127490:127535" ph="delete from " />
+            <marker date="1521604388579" expanded="true" signature="127578:127639" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="127906:128185" ph="select CONVE... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="128248:128541" ph="select CONVE... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="128817:128880" ph="select * fro... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="129036:129092" ph="update stm_l... " />
+            <marker date="1521604388579" expanded="true" signature="129145:129218" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="129373:129416" ph="select pid f... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="129373:129429" ph="select pid f... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="129769:129910" ph="select m.pid... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="129988:130092" ph="select code,... uni_moviecodes" />
+            <marker date="1521604388579" expanded="true" signature="132206:132271" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="133967:133996" ph="select pid f... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="133967:134027" ph="select pid f... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="134177:134237" ph="select distr... " />
+            <marker date="1521604388579" expanded="true" signature="134435:134499" ph="insert into stm_confirm_project... " />
+            <marker date="1521604388579" expanded="true" signature="134630:134678" ph="update fdm_m... " />
+            <marker date="1521604388579" expanded="true" signature="134630:134679" ph="update fdm_m... " />
+            <marker date="1521604388579" expanded="true" signature="134630:134681" ph="update fdm_m... " />
+            <marker date="1521604388579" expanded="true" signature="134725:134786" ph="insert into global_user_logs... " />
+            <marker date="1521604388579" expanded="true" signature="135095:135197" ph="select id, f... stm_settlement_files" />
+            <marker date="1521604388579" expanded="true" signature="135305:135422" ph="select id, f... stm_settlement_files" />
+            <marker date="1521604388579" expanded="true" signature="136242:136366" ph="select `id`,... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="136844:136921" ph="select pid, fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="137075:137543" ph="SELECT pid, stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="138479:138778" ph="SELECT t1.ta... stm_accounts_assignment" />
+            <marker date="1521604388579" expanded="true" signature="138681:138725" ph="select id fr... stm_assignment" />
+            <marker date="1521604388579" expanded="true" signature="138818:138935" ph="select task,... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="140330:140788" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="140417:140491" ph="select id,un... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="140516:140736" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="140590:140665" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="147145:148022" ph="SELECT task,... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="147588:147955" ph="select max(t... task" />
+            <marker date="1521604388579" expanded="true" signature="147662:147822" ph="select task stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="147855:147932" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="150917:151317" ph="SELECT task,... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="154532:154655" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="154835:154986" ph="SELECT unit,... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="155085:155213" ph="SELECT unit,... stm_accounts_received" />
+            <marker date="1521604388579" expanded="true" signature="156117:156498" ph="SELECT unit,... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="156713:157148" ph="SELECT unit,... stm_accounts_assignment" />
+            <marker date="1521604388579" expanded="true" signature="157006:157050" ph="select id fr... stm_assignment" />
+            <marker date="1521604388579" expanded="true" signature="158965:159111" ph="select id as... " />
+            <marker date="1521604388579" expanded="true" signature="159228:159271" ph="select * fro... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="159773:160394" ph="select task,... " />
+            <marker date="1521604388579" expanded="true" signature="160520:161082" ph="select ta.un... " />
+            <marker date="1521604388579" expanded="true" signature="161215:161541" ph="SELECT sum(r... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="162065:162742" ph="select ta.un... " />
+            <marker date="1521604388579" expanded="true" signature="163423:163701" ph="SELECT unit,... stm_accounts_assignment" />
+            <marker date="1521604388579" expanded="true" signature="163546:163590" ph="select id fr... stm_assignment" />
+            <marker date="1521604388579" expanded="true" signature="166152:166273" ph="select pid,n... " />
+            <marker date="1521604388579" expanded="true" signature="166331:166577" ph="select pid f... id" />
+            <marker date="1521604388579" expanded="true" signature="166372:166443" ph="SELECT id,mo... " />
+            <marker date="1521604388579" expanded="true" signature="166868:166928" ph="select pid,c... " />
+            <marker date="1521604388579" expanded="true" signature="167188:167242" ph="select * fro... uni_chains" />
+            <marker date="1521604388579" expanded="true" signature="167753:167798" ph="select id fr... uni_moviecodes" />
+            <marker date="1521604388579" expanded="true" signature="167969:168071" ph="select sum(r... box_office" />
+            <marker date="1521604388579" expanded="true" signature="168268:168370" ph="select sum(r... box_office" />
+            <marker date="1521604388579" expanded="true" signature="168590:168692" ph="select sum(r... box_office" />
+            <marker date="1521604388579" expanded="true" signature="168952:169345" ph="select sum(r... id" />
+            <marker date="1521604388579" expanded="true" signature="169114:169191" ph="SELECT id,mo... " />
+            <marker date="1521604388579" expanded="true" signature="169409:169729" ph="SELECT pid,s... stm_accounts_assignment" />
+            <marker date="1521604388579" expanded="true" signature="169515:169575" ph="select id fr... stm_assignment" />
+            <marker date="1521604388579" expanded="true" signature="170739:170885" ph="select id as... " />
+            <marker date="1521604388579" expanded="true" signature="171006:171046" ph="select * fro... fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="171092:171134" ph="select * fro... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="171584:172103" ph="select task,... " />
+            <marker date="1521604388579" expanded="true" signature="172198:172682" ph="select ta.un... " />
+            <marker date="1521604388579" expanded="true" signature="172785:173073" ph="SELECT sum(r... stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="173492:174091" ph="select ta.un... " />
+            <marker date="1521604388579" expanded="true" signature="174747:174978" ph="SELECT unit,... stm_accounts_assignment" />
+            <marker date="1521604388579" expanded="true" signature="174845:174889" ph="select id fr... stm_assignment" />
+            <marker date="1521604388579" expanded="true" signature="177380:177431" ph="select month... " />
+            <marker date="1521604388579" expanded="true" signature="177670:177729" ph="select code,... fdm_moviecode" />
+            <marker date="1521604388579" expanded="true" signature="180084:180463" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="180508:180584" ph="update stm_a... " />
+            <marker date="1521604388579" expanded="true" signature="181324:181802" ph="select pid, fdm_project" />
+            <marker date="1521604388579" expanded="true" signature="183448:183699" ph="SELECT pid, stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="183915:184527" ph="select ad.pi... stm_accounts_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="184081:184155" ph="select id,un... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="184194:184428" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521604388579" expanded="true" signature="184275:184350" ph="select unit,... stm_receivable" />
+            <marker date="1521604388579" expanded="true" signature="188901:189783" ph="SELECT pid, stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="189170:189725" ph="select max(t... pid" />
+            <marker date="1521604388579" expanded="true" signature="189289:189562" ph="select pid, stm_accounts_receivable" />
+            <marker date="1521604388579" expanded="true" signature="189610:189702" ph="select id fr... stm_settlement_task" />
+            <marker date="1521604388579" expanded="true" signature="190133:190607" ph="SELECT task,... stm_accounts_receivable" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17400">
+          <caret line="1287" column="50" lean-forward="false" selection-start-line="1287" selection-start-column="50" selection-end-line="1287" selection-end-column="50" />
+          <folding>
+            <element signature="e#43858#49562#0" expanded="false" />
+            <element signature="e#54698#72741#0" expanded="false" />
+            <marker date="1521601063075" expanded="true" signature="242:294" ph="select `id`,... uni_chains" />
+            <marker date="1521601063075" expanded="true" signature="481:519" ph="select `id`,... bpm_users" />
+            <marker date="1521601063075" expanded="true" signature="579:655" ph="select CONVE... bpm_zoneversion" />
+            <marker date="1521601063075" expanded="true" signature="725:777" ph="select `id`,... uni_chains" />
+            <marker date="1521601063075" expanded="true" signature="2435:2725" ph="select tt.na... " />
+            <marker date="1521601063075" expanded="true" signature="3816:3985" ph="select `type... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="5230:5404" ph="select unit stm_accounts_receivable" />
+            <marker date="1521601063075" expanded="true" signature="5831:6402" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="5950:6024" ph="select id,un... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="6081:6333" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="6171:6246" ph="select unit,... stm_receivable" />
+            <marker date="1521601063075" expanded="true" signature="14216:14257" ph="select name fdm_project" />
+            <marker date="1521601063075" expanded="true" signature="14372:14441" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="21296:21365" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="22309:22389" ph="select id fr... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="22474:22565" ph="select id fr... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="22686:22739" ph="update bpm_s... " />
+            <marker date="1521601063075" expanded="true" signature="28949:29034" ph="select pid, bpm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="33635:33872" ph="select unit stm_accounts_receivable" />
+            <marker date="1521601063075" expanded="true" signature="34297:34909" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="34424:34498" ph="select id,un... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="34563:34823" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="34657:34732" ph="select unit,... stm_receivable" />
+            <marker date="1521601063075" expanded="true" signature="43003:43044" ph="select name fdm_project" />
+            <marker date="1521601063075" expanded="true" signature="43158:43227" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="53921:53962" ph="select name fdm_project" />
+            <marker date="1521601063075" expanded="true" signature="54076:54145" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="54778:54863" ph="select pid, fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="58917:59149" ph="select unit stm_accounts_receivable" />
+            <marker date="1521601063075" expanded="true" signature="59770:60312" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="59881:59955" ph="select id,un... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="60004:60248" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521601063075" expanded="true" signature="60090:60165" ph="select unit,... stm_receivable" />
+            <marker date="1521601063075" expanded="true" signature="61510:61610" ph="select LOWER... uni_chains" />
+            <marker date="1521601063075" expanded="true" signature="69364:69721" ph="select task,... " />
+            <marker date="1521601063075" expanded="true" signature="69820:70077" ph="select unit stm_accounts_receivable" />
+            <marker date="1521601063075" expanded="true" signature="70191:70434" ph="select unit stm_accounts_receivable" />
+            <marker date="1521601063075" expanded="true" signature="72870:73049" ph="select unit,... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="73379:73531" ph="select unit,... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="74415:74564" ph="select `type... bpm_statistics_tasks" />
+            <marker date="1521601063075" expanded="true" signature="75067:75108" ph="select name fdm_project" />
+            <marker date="1521601063075" expanded="true" signature="75242:75311" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521601063075" expanded="true" signature="79502:79567" ph="select CONVE... uni_cinemas" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/base_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50100">
+          <caret line="3065" column="34" lean-forward="false" selection-start-line="3065" selection-start-column="34" selection-end-line="3065" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#15745#17746#0" expanded="false" />
+            <element signature="e#17792#19204#0" expanded="false" />
+            <element signature="e#19246#20081#0" expanded="false" />
+            <element signature="e#20140#20761#0" expanded="false" />
+            <element signature="e#20813#23020#0" expanded="false" />
+            <element signature="e#23092#24347#0" expanded="false" />
+            <element signature="e#24409#26091#0" expanded="false" />
+            <element signature="e#36990#41291#0" expanded="false" />
+            <element signature="e#70770#73347#0" expanded="false" />
+            <element signature="e#94138#96416#0" expanded="false" />
+            <element signature="e#96983#100121#0" expanded="false" />
+            <element signature="e#100843#101230#0" expanded="false" />
+            <element signature="e#115661#118359#0" expanded="false" />
+            <element signature="e#124088#125014#0" expanded="false" />
+            <marker date="1521543566504" expanded="true" signature="562:793" ph="..." />
+            <marker date="1521543566504" expanded="true" signature="1164:1165" ph="..." />
+            <marker date="1521543566504" expanded="true" signature="1755:1807" ph="select `id`,... uni_chains" />
+            <marker date="1521543566504" expanded="true" signature="1890:1942" ph="select `id`,... uni_chains" />
+            <marker date="1521543566504" expanded="true" signature="2095:2133" ph="select `id`,... bpm_users" />
+            <marker date="1521543566504" expanded="true" signature="15982:16095" ph="select round... box_office" />
+            <marker date="1521543566504" expanded="true" signature="16182:16326" ph="select round... box_office" />
+            <marker date="1521543566504" expanded="true" signature="16440:16588" ph="select round... box_office_zone" />
+            <marker date="1521543566504" expanded="true" signature="16711:16890" ph="select round... box_office_zone" />
+            <marker date="1521543566504" expanded="true" signature="19281:19593" ph="select tt.na... " />
+            <marker date="1521543566504" expanded="true" signature="20185:20266" ph="select id fr... user_star" />
+            <marker date="1521543566504" expanded="true" signature="20387:20454" ph="insert into user_star... " />
+            <marker date="1521543566504" expanded="true" signature="20604:20671" ph="DELETE FROM " />
+            <marker date="1521543566504" expanded="true" signature="25064:25209" ph="select sheet... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="26591:26700" ph="select id fr... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="26826:26879" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="27414:27575" ph="select book,... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="29143:29237" ph="select movie... uni_moviecodes" />
+            <marker date="1521543566504" expanded="true" signature="29521:29878" ph="SELECT `t`.`... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="32383:32545" ph="select LOWER... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="34011:34372" ph="SELECT `r`.`... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="37185:37407" ph="select movie... " />
+            <marker date="1521543566504" expanded="true" signature="39272:39535" ph="SELECT `r`.`... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="41409:41544" ph="select code,... " />
+            <marker date="1521543566504" expanded="true" signature="41602:41757" ph="select code,... " />
+            <marker date="1521543566504" expanded="true" signature="41977:42031" ph="select zone " />
+            <marker date="1521543566504" expanded="true" signature="42159:42235" ph="select `id` " />
+            <marker date="1521543566504" expanded="true" signature="42356:42511" ph="SELECT `chai... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="42734:42909" ph="SELECT `chai... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="43102:43228" ph="SELECT `chai... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="43466:43641" ph="SELECT `chai... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="43824:43879" ph="SELECT `id` uni_moviecodes" />
+            <marker date="1521543566504" expanded="true" signature="44042:44140" ph="SELECT `chai... box_office" />
+            <marker date="1521543566504" expanded="true" signature="44597:44745" ph="SELECT `unit... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="44980:45243" ph="SELECT `r`.`... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="46874:46928" ph="select zone " />
+            <marker date="1521543566504" expanded="true" signature="47081:47157" ph="select `id` " />
+            <marker date="1521543566504" expanded="true" signature="49172:49436" ph="select max(r... *" />
+            <marker date="1521543566504" expanded="true" signature="49273:49364" ph="SELECT * FRO... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="49774:50045" ph="SELECT SUM(`... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="59166:59263" ph="select movie... bpm_statistics_reports" />
+            <marker date="1521543566504" expanded="true" signature="60839:60927" ph="select id,re... bpm_statistics_reportfiles" />
+            <marker date="1521543566504" expanded="true" signature="61157:61241" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="61630:61677" ph="update bpm_o... " />
+            <marker date="1521543566504" expanded="true" signature="61822:61880" ph="select pid,m... bpm_project" />
+            <marker date="1521543566504" expanded="true" signature="62070:62132" ph="select id,na... bpm_statistics_books" />
+            <marker date="1521543566504" expanded="true" signature="62228:62305" ph="select code,... bpm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="62817:62874" ph="select code bpm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="67607:67642" ph="SELECT `id` uni_chains" />
+            <marker date="1521543566504" expanded="true" signature="67694:67757" ph="select code,... fdm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="67938:67988" ph="SELECT code,... fdm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="68792:68940" ph="SELECT pid, bpm_options" />
+            <marker date="1521543566504" expanded="true" signature="69795:69968" ph="select targe... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="73440:73620" ph="select sum(i... stm_accounts_assignment" />
+            <marker date="1521543566504" expanded="true" signature="76543:76645" ph="select sum(r... stm_accounts_receivable" />
+            <marker date="1521543566504" expanded="true" signature="76727:77050" ph="select pid, stm_settlement_task" />
+            <marker date="1521543566504" expanded="true" signature="77155:77296" ph="select pid, bpm_ack_chain_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="81350:81548" ph="select sum(i... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="82149:82218" ph="select pid,l... bpm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="82979:83050" ph="select pid, bpm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="84638:84995" ph="select type,... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="86767:87037" ph="select sum(i... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="88303:88399" ph="select pid, bpm_project" />
+            <marker date="1521543566504" expanded="true" signature="88458:88577" ph="select id, t... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="88732:88823" ph="select targe... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="89462:89770" ph="select targe... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="90125:90313" ph="select sum(s... pulled_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="90449:90745" ph="select id, t... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="92225:92522" ph="select id, t... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="92774:92887" ph="select targe... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="94201:94638" ph="select versi... id" />
+            <marker date="1521543566504" expanded="true" signature="94293:94447" ph="SELECT id as... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="94480:94604" ph="SELECT paren... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="96512:96673" ph="select pid f... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="97054:97151" ph="select id fr... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="97322:97362" ph="SELECT * FRO... nc_wl_list" />
+            <marker date="1521543566504" expanded="true" signature="98024:98204" ph="insert into bpm_statistics_tasks... " />
+            <marker date="1521543566504" expanded="true" signature="98524:98704" ph="insert into bpm_statistics_tasks... " />
+            <marker date="1521543566504" expanded="true" signature="99048:99250" ph="insert into bpm_statistics_tasks... " />
+            <marker date="1521543566504" expanded="true" signature="99610:99790" ph="insert into bpm_statistics_tasks... " />
+            <marker date="1521543566504" expanded="true" signature="100235:100701" ph="select id, t... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="100881:101182" ph="select id,ty... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="101336:101451" ph="insert into bpm_settlement_merge... " />
+            <marker date="1521543566504" expanded="true" signature="102036:102097" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="102327:102438" ph="select name,... bpm_settlement_warehouse" />
+            <marker date="1521543566504" expanded="true" signature="106343:106429" ph="SELECT * FRO... bpm_settlement_warehouse" />
+            <marker date="1521543566504" expanded="true" signature="108537:108606" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="108823:108909" ph="SELECT * FRO... bpm_settlement_warehouse" />
+            <marker date="1521543566504" expanded="true" signature="111423:111492" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="111827:111880" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="111939:111997" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="112169:112217" ph="select id, n... uni_chains" />
+            <marker date="1521543566504" expanded="true" signature="112407:112806" ph="select sheet... stt_boxoffice" />
+            <marker date="1521543566504" expanded="true" signature="112955:113061" ph="select item,... bpm_settlement_items" />
+            <marker date="1521543566504" expanded="true" signature="113192:113367" ph="select settl... bpm_settlement_merge" />
+            <marker date="1521543566504" expanded="true" signature="113998:114065" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="114302:114435" ph="select * fro... bpm_settlement_merge" />
+            <marker date="1521543566504" expanded="true" signature="114620:114677" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="114969:115039" ph="select id, t... bpm_statistics_tasks" />
+            <marker date="1521543566504" expanded="true" signature="115210:115262" ph="update bpm_s... " />
+            <marker date="1521543566504" expanded="true" signature="115334:115388" ph="select relea... delete_release_id" />
+            <marker date="1521543566504" expanded="true" signature="115468:115524" ph="update bpm_r... " />
+            <marker date="1521543566504" expanded="true" signature="119581:119650" ph="select pid,l... fdm_moviecode" />
+            <marker date="1521543566504" expanded="true" signature="126898:126953" ph="select id as... uni_chains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/eui_statistics/model/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4804">
+          <caret line="1888" column="24" lean-forward="false" selection-start-line="1888" selection-start-column="24" selection-end-line="1888" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#25130#32050#0" expanded="false" />
+            <element signature="e#81762#82359#0" expanded="false" />
+            <marker date="1521706000468" expanded="true" signature="264:554" ph="insert into bpm_statistics_reports... " />
+            <marker date="1521706000468" expanded="true" signature="967:1058" ph="select conca... fdm_moviecode" />
+            <marker date="1521706000468" expanded="true" signature="1184:1368" ph="select id, r... bpm_statistics_ezreports" />
+            <marker date="1521706000468" expanded="true" signature="1760:2041" ph="insert into bpm_statistics_ezreports... " />
+            <marker date="1521706000468" expanded="true" signature="2316:2411" ph="select repor... bpm_statistics_ezreports" />
+            <marker date="1521706000468" expanded="true" signature="2746:2968" ph="select t1.pi... bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="2849:2904" ph="select pid, bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="3344:3429" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="3344:3508" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="3344:3509" ph="select pid f... fdm_projectwhere" />
+            <marker date="1521706000468" expanded="true" signature="3344:3516" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="3686:3991" ph="select t2.mo... " />
+            <marker date="1521706000468" expanded="true" signature="5872:5891" ph="select id fr... fdm_" />
+            <marker date="1521706000468" expanded="true" signature="5872:5901" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="5872:5912" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="5872:5914" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="6035:6249" ph="select t1.ed... pid" />
+            <marker date="1521706000468" expanded="true" signature="6127:6182" ph="select pid,c... fdm_moviecode" />
+            <marker date="1521706000468" expanded="true" signature="6494:6680" ph="select movie... bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="6494:6721" ph="select chain... bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="8076:8226" ph="select unit stm_accounts_receivable" />
+            <marker date="1521706000468" expanded="true" signature="8496:9066" ph="select d.uni... stm_accounts_late_receivable" />
+            <marker date="1521706000468" expanded="true" signature="8595:8669" ph="select id,un... stm_late_receivable" />
+            <marker date="1521706000468" expanded="true" signature="8734:8994" ph="select id,t1... stm_late_receivable" />
+            <marker date="1521706000468" expanded="true" signature="8828:8903" ph="select unit,... stm_receivable" />
+            <marker date="1521706000468" expanded="true" signature="9756:9830" ph="select id, n... uni_chains" />
+            <marker date="1521706000468" expanded="true" signature="12727:12854" ph="select movie... stt_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="13009:13115" ph="select code fdm_moviecode" />
+            <marker date="1521706000468" expanded="true" signature="14355:14393" ph="select `id`,... bpm_users" />
+            <marker date="1521706000468" expanded="true" signature="14442:14505" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="15327:15579" ph="select t1.pi... bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="15440:15495" ph="select pid, bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="15653:15898" ph="select chain... stt_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="15961:16214" ph="select chain... stt_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="25381:25594" ph="select book,... stt_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="26540:26588" ph="SELECT `id` uni_moviecodes" />
+            <marker date="1521706000468" expanded="true" signature="26818:26945" ph="select chain... box_office" />
+            <marker date="1521706000468" expanded="true" signature="27449:27623" ph="select book,... stt_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="28518:28636" ph="select chain... box_office" />
+            <marker date="1521706000468" expanded="true" signature="29156:29202" ph="select id, n... uni_chains" />
+            <marker date="1521706000468" expanded="true" signature="29253:29326" ph="select id, i... uni_chains" />
+            <marker date="1521706000468" expanded="true" signature="32223:32605" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="34386:34449" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="40435:40818" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="42780:42843" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="44589:45163" ph="select pid,m... bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="49112:49493" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="49817:50008" ph="select id fr... pid" />
+            <marker date="1521706000468" expanded="true" signature="49817:50009" ph="select id fr... pid" />
+            <marker date="1521706000468" expanded="true" signature="49833:49920" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="50814:50877" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="57120:57503" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="58788:58851" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="65910:66291" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="67612:67675" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="73929:74312" ph="select pid, bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="75597:75660" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="82483:82525" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="83806:83869" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="84280:84968" ph="select t1.co... " />
+            <marker date="1521706000468" expanded="true" signature="85014:85245" ph="select t1.pi... bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="85133:85188" ph="select pid, bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="88019:88231" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88237" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88279" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88287" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88296" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88352" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="88019:88378" ph="select id fr... fdm_project_id" />
+            <marker date="1521706000468" expanded="true" signature="89420:89483" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="89902:90678" ph="select t1.co... " />
+            <marker date="1521706000468" expanded="true" signature="90724:90955" ph="select t1.pi... bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="90843:90898" ph="select pid, bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="93877:94079" ph="select t1.pi... pid" />
+            <marker date="1521706000468" expanded="true" signature="93877:94103" ph="select t1.pi... pid" />
+            <marker date="1521706000468" expanded="true" signature="93877:94148" ph="select t1.pi... pid" />
+            <marker date="1521706000468" expanded="true" signature="93983:94064" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="93983:94068" ph="select pid f... fdm_project" />
+            <marker date="1521706000468" expanded="true" signature="95564:95627" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="96038:96775" ph="select t1.co... " />
+            <marker date="1521706000468" expanded="true" signature="96829:97081" ph="select t1.pi... bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="96948:97003" ph="select pid, bpm_options" />
+            <marker date="1521706000468" expanded="true" signature="102844:102907" ph="select versi... " />
+            <marker date="1521706000468" expanded="true" signature="108909:109042" ph="select * fro... fdm" />
+            <marker date="1521706000468" expanded="true" signature="110032:110410" ph="select chain... bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="110032:110416" ph="select chain... bpm_interior_publish_boxoffice" />
+            <marker date="1521706000468" expanded="true" signature="110517:110572" ph="select id, n... " />
+            <marker date="1521706000468" expanded="true" signature="110517:110592" ph="select id, n... " />
+            <marker date="1521706000468" expanded="true" signature="110517:110598" ph="select id, n... " />
+            <marker date="1521706000468" expanded="true" signature="110759:110814" ph="SELECT chain... uni_name_chains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui_statistics/fe/src/statistics/base/report/report.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eui/bpm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
